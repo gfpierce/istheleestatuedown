@@ -1,0 +1,16 @@
+html {
+    background-color: #FF7643;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 24pt;
+    text-align: center;
+}
+
+#header {
+    font-size: 1.5rem;
+}
+
+#maintext {
+    font-size: 2rem;
+}
+
