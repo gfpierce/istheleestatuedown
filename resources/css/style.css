@@ -1,9 +1,13 @@
 html {
-    background-color: #FF7643;
+    background-color: #000;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     font-size: 24pt;
     text-align: center;
+}
+
+body {
+    color: #FFF;
 }
 
 #header {
@@ -12,5 +16,9 @@ html {
 
 #maintext {
     font-size: 2rem;
+}
+
+a {
+    color: #FFF;
 }
 
